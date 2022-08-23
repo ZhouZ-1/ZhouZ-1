@@ -5,8 +5,8 @@ I enjoy building things that people use, and I'm always looking for new opportun
 
 ### Some projects I've worked on
 - [LinkUp Events](https://linkupevents.com/) - A dedicated event tracker for events at UNSW. Browse upcoming events from 150+ societies, all in one place.
-- [Arc Clubs Search Interface](https://www.arc.unsw.edu.au/get-involved) - Create a user interface for exploring over 300+ clubs, societies and community programs at UNSW
-- [CSESoc Projects Subcommittee (Slackbot)](https://github.com/csesoc/community-slackbot) - A community slackbot to encourage participation with several useful tools and features.
+- [Arc Clubs Interface](https://www.arc.unsw.edu.au/get-involved) - Create a user interface for exploring over 300+ clubs, societies and community programs at UNSW.
+- [CSESoc Projects (Slackbot)](https://github.com/csesoc/community-slackbot) - A community slackbot to encourage participation with several useful tools and features.
 - [Linkup Classic](https://old.linkupevents.com/) - The original Linkup website which was built near the end of my first year.
 - [Personal Website](https://zzhou.dev/) - My personal webite for showcasing projects and practice frontend development.
 - ...and several smaller projects. Details can be found [here](https://zzhou.dev/#projects)

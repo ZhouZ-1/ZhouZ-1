@@ -12,10 +12,3 @@ Building products that make a difference in people's lives is my ultimate goal. 
 - ...and several smaller projects. Details can be found [here](https://zzhou.dev/#projects)
 
 **Interests**: Front-end developement, competitive programming.
-
-**Currently learning:** Rust, C++
-
-<a href="https://github.com/jstrieb/github-stats">
-    <img src="https://raw.githubusercontent.com/ZhouZ-1/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-    <img src="https://raw.githubusercontent.com/ZhouZ-1/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
